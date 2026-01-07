@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "College Event Notifier",
+  "description": "Shows upcoming college events in a Chrome extension popup",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
